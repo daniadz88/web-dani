@@ -1,0 +1,31 @@
+- Html & css
+- Javascript Fundamentals
+- DOM
+- Modern Javascript ES6
+  - ES6 Variables (let & const)
+  - Functions & Arrow Functions
+  - Objects & Classes
+  - Arrays & Array Methods
+  - Destructuring
+  - Template Literals
+  - Ternary Operators
+  - ES Modules & Import / Export Syntax
+- Git & CLi Command Line Interface
+	- Repo : folder project kita
+	- commit : rekaman / snapshot dari repo kita
+	- hash : penanda uni pada sebuah commit
+	- checkout : berpindah ke sebuah commit
+	- branch : cabang bebas dari sebuah commit
+	- merge : menggabungkan branch
+	- remote : sumber yang memiliki repo
+	- clone : mengambil repo dari remote
+	- push : mengirimkan commit ke repo
+	- pull : mengambil commit dari repo
+  - Git & Github :
+	- 
+- Package Manager (nodeJS + NPM)
+
+Core Concepts
+ - Component
+ - Props
+ - State
